@@ -1,0 +1,3 @@
+In this project some of the most common Machine Learning algorithms are implemented as assignments of a University course.
+Among them: Nearest Neighbor, PCA, LDA, Kernel Methods, Multi-layer Perceptron etc.
+Explicitly excluded are Neural Networks which can be found in other repositories.
